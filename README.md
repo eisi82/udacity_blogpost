@@ -92,8 +92,3 @@ The notebook includes:
 For a detailed narrative and visual insights, check out the full article on Medium:  
 👉 https://medium.com/@roman.eisenbarth/remote-work-in-transition-trends-salaries-and-company-size-2022-2025-d3e82ba88231
 
----
-
-## **📜 License**  
-This project is licensed under the **MIT License**.
-
